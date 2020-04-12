@@ -1,0 +1,1 @@
+{"version":3,"file":"protectedRoute.js","sourceRoot":"","sources":["../../../api/middlewares/protectedRoute.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,MAAM,cAAc,GAAG,CAAO,GAAQ,EAAE,GAAQ,EAAE,IAAS,EAAE,EAAE;IAC7D,IAAI,GAAG,CAAC,IAAI,EAAE;QACZ,OAAO,IAAI,EAAE,CAAA;KACd;IAED,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,cAAc,CAAC,CAAA;AACtC,CAAC,CAAA,CAAA;AAED,kBAAe,cAAc,CAAA"}
